@@ -7,15 +7,15 @@
 <body>
 	<div id="wrap" class="wrap">
 		<div class="header">
-			header
+			header222
 		</div>
 
 		<div class="container">
-			container
+			container222
 		</div>
 
 		<div class="footer">
-			footer
+			footer222
 		</div>
 
 	</div>
